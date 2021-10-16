@@ -1,8 +1,6 @@
 # crud opreation using python file handling 
 #1 crating emty file 
 file =open("dev.txt","a")
-
-
 file.close()
 # appending data
 file =open("dev.txt","a+")
